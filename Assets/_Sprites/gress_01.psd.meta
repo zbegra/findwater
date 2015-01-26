@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 5259cd1a72f4463498818e3cb6a1458f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GressTust_01
+    21300002: GressTust_02
+    21300004: GressTust_03
+    21300006: GressTust_04
+    21300008: GressTust_05
+    21300010: GressTust_06
+    21300012: GressTust_07
+    21300014: GressTust_08
+    21300016: GressTust_09
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GressTust_01
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 805
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_02
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 779
+        width: 220
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_03
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 772
+        width: 175
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_04
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 538
+        width: 342
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_05
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 559
+        width: 319
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_06
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 288
+        width: 276
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_07
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 159
+        width: 228
+        height: 282
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_08
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 330
+        width: 151
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GressTust_09
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 33
+        width: 162
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

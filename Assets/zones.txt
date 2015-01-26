@@ -1,0 +1,24 @@
+Antall skyggeområda
+É.
+
+
+Frequenzy for Klynger
+minSize, MaxSize for klynger
+minDistance for klynger
+
+Frequency for vannplanter.
+minDistance mellom vannplanter.
+
+Freq for steiner med skygge
+minDistance mellom steiner med skygge
+
+Udefinert
+
+Biome
+
+Objekttyper
+
+Zone
+ -Biome
+	-PrefabListe
+	-ObjektKlasse
